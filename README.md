@@ -22,7 +22,7 @@ The final report includes each of the following:
 
 #### School Summary
 
--  An overview table that summarizes key metrics about each school, including:
+- An overview table that summarizes key metrics about each school, including:
   - School Name
   - School Type
   - Total Students
